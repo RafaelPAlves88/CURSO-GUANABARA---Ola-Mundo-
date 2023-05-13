@@ -3,4 +3,4 @@
 
 Repositório criado durante uma aula ao vivo!
 
-Essa linha eu adicione diretamente no site. IMPRESSIONANTE!
+Essa linha eu adicione diretamente no remoto. IMPRESSIONANTE!
