@@ -5,6 +5,8 @@ Repositório criado durante uma aula ao vivo!
 
 Essa linha eu adicione diretamente no remoto. IMPRESSIONANTE!
 
+# GUIA DE LINGUAGEM MARKDOWN
+
 # **CURSO DE *GIT* E *GITHUB***
 
 ***
